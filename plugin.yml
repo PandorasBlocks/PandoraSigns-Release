@@ -1,0 +1,6 @@
+name: PandoraSigns
+main: me.DawnBudgie.PandoraSigns.PandoraSigns
+version: 1.0.0-Release
+description: Gives any player the ability to create a sign using default minecraft colors.
+author: PandoraPlugineering
+website: https://github.com/PandorasBlocks

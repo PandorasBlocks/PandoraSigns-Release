@@ -1,0 +1,3 @@
+# Configuration file for PandoraSigns 1.0.0-Release
+PandoraSigns:
+  char: '&'
